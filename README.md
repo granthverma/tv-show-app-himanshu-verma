@@ -4,6 +4,10 @@
 
 > Welcome to TV Maze Explorer! This project was created as part of the internship assignment for Quad Tech. The application allows users to explore and discover a variety of TV shows, providing details such as show names, images, and network information.
 
+
+![Alt text](src/tv.png)
+
+
 # Table of Contents
 - Features
 - Project Structure
@@ -79,7 +83,7 @@ tv-show-app-himanshu-verma/
 
 ###  Screenshots
 
-![Alt text](tv.png)
+![Alt text](src/tv.png)
 
 ### Contributing
 
