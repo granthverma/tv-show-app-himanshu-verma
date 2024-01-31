@@ -79,7 +79,7 @@ tv-show-app-himanshu-verma/
 
 ###  Screenshots
 
-![TV Maze](tv.png)
+![Alt text](tv.png)
 
 ### Contributing
 
