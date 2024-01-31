@@ -21,7 +21,8 @@ const ShowList = () => {
 
   return (
     <div className="show-list">
-      <h1>Show List</h1>
+      <h1>Explore TV Shows</h1>
+      <p>Discover a variety of TV shows and find your next binge-worthy series</p>
       <ul>
         {shows.map((show) => (
           <li key={show.show.id}>
