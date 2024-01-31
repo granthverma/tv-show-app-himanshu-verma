@@ -1,0 +1,52 @@
+
+.show-list {
+    padding: 20px;
+  }
+  
+  .show-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .show-list li {
+    margin-bottom: 20px;
+  }
+  
+  .show-list img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .show-list a {
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+  }
+  /* Mobile view */
+@media (max-width: 767px) {
+  .show-list h1 {
+    font-size: 18px;
+  }
+
+  .show-list img {
+    width: 80px;
+  }
+}
+
+/* Tablet view */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .show-list h1 {
+    font-size: 22px;
+  }
+
+  .show-list img {
+    width: 120px;
+  }
+}
+
+/* Desktop view */
+@media (min-width: 1024px) {
+  /* Add styles specific to desktop view if needed */
+}
